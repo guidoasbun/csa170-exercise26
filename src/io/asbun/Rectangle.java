@@ -49,7 +49,7 @@ public class Rectangle {
     //printDimensions() method
     public void printDimensions(){
         System.out.println("Width: " + width);
-        System.out.println("Length: " + length);
+        System.out.println("Length: " + length + "\n");
     }
 
 }
