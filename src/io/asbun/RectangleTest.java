@@ -19,7 +19,7 @@ public class RectangleTest {
 
         //Prints out r2 data using the get*() methods
         System.out.println("Width: " + r2.getWidth());
-        System.out.println("Length" + r2.getLength() + "\n");
+        System.out.println("Length: " + r2.getLength() + "\n");
 
         //Prints out area and perimeter of r1 using methods
         System.out.printf("R1 Area: %.2f \n", r1.calculateArea());
